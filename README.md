@@ -114,7 +114,7 @@ This project successfully showcases:
 ## ✨ Author
 **👨‍💻 Prajwal B**  
 Machine Learning & Data Science Enthusiast  
-📧 [Your email or LinkedIn profile link]  
+  
 
 ## 🧰 Requirements
 ```
