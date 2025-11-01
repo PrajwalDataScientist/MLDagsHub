@@ -123,6 +123,3 @@ scikit-learn
 mlflow
 ```
 
-## 🖼️ Screenshot
-*(Add this after running `mlflow ui`)*  
-Insert a screenshot of the MLflow dashboard showing experiment runs, metrics, and model comparison.
